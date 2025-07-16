@@ -179,4 +179,5 @@ This tool is designed for legitimate RF testing, research, and educational purpo
 
 **Note**: This is a signal generator for testing and development purposes. It should only be used by qualified individuals in appropriate settings with proper authorization.
 
-![rocketgod_logo](https://github.com/RocketGod-git/shodanbot/assets/57732082/7929b554-0fba-4c2b-b22d-6772d23c4a18)
+<img width="1500" height="1000" alt="rocketgod_logo_transparent" src="https://github.com/user-attachments/assets/86c2c409-4fbe-4b77-a671-c7b487144e4c" />
+
